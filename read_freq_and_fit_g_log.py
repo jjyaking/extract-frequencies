@@ -1,6 +1,5 @@
 import re
 import math
-import tempfile
 
 # define function_1
 # loadfile *.log for gaussian
