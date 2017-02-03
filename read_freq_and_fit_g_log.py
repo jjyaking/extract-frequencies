@@ -44,7 +44,7 @@ def extstr(a,x,y,z):
     return(listfff)
 # finish define funcions
 
-# main-1 fetch the frequencies
+# main-1 
 print('input the file name:')
 iname = input("-->");
 print('input the spectra range:')
